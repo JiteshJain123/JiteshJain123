@@ -1,6 +1,6 @@
 ![logo](https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe-1920x768.png)
 <h1 align="center">Hi 👋, I'm Jitesh Jain</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">💡 Engineering student at IIIT Gwalior | Fueled by creativity, curiosity & a love for building meaningful digital experiences</h3>
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSli15ojX0-4uVnP-x1v4cxpuP03rGXab2oEA&s">
 
