@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=jiteshjain123&label=Profile%20views&color=0e75b6&style=flat" alt="jiteshjain123" /> 
 </p>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React JS**  
+- 🎯 From pixel-perfect interfaces (HTML, CSS, JS, React.js) to scalable backend systems (Node.js, Express, MongoDB), I turn ideas into full-stack digital products — optimized for performance, UX, and real-world impact. 🚀 
 - 📫 How to reach me: **jiteshjain022@gmail.com**  
 - 📄 Know about my experiences: [Resume Link](https://surl.li/izvklc)  
 - ⚡ Fun fact: **I am confident, passionate, and determined**  
