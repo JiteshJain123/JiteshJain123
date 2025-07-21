@@ -17,7 +17,7 @@
 
 - 🎯 From pixel-perfect interfaces (HTML, CSS, JS, React.js) to scalable backend systems (Node.js, Express, MongoDB), I turn ideas into full-stack digital products — optimized for performance, UX, and real-world impact. 🚀 
 - 📫 How to reach me: **jiteshjain022@gmail.com**  
-- 📄 Know about my experiences: [Resume Link](https://surl.li/izvklc)  
+- 📄 Know about my experiences: [Resume Link]([https://surl.li/izvklc](https://drive.google.com/drive/folders/18fWh-ga26rWt22o4IbszUZMO3aePnZrd?usp=sharing))  
 - ⚡ Fun fact: **I am confident, passionate, and determined**  
 
 ---
