@@ -74,11 +74,8 @@
 <p align="left">
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://github.com/jiteshjain123" target="_blank"><img src="https://www.svgrepo.com/show/330554/github.svg" alt="github" width="40" height="40"/></a>
-  <a href="https://vercel.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/></a>
   <a href="https://www.neon.tech/" target="_blank"><img src="https://avatars.githubusercontent.com/u/89221146" alt="neon" width="40" height="40"/></a>
   <a href="https://upstash.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/86364117" alt="upstash" width="40" height="40"/></a>
-  <a href="https://render.com/" target="_blank"><img src="https://www.svgrepo.com/show/373957/render.svg" alt="render" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/></a>
 </p>
 
