@@ -57,8 +57,6 @@
   <a href="https://expressjs.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
   <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
-  <a href="https://www.prisma.io/" target="_blank"><img src="https://www.svgrepo.com/show/373972/prisma.svg" alt="prisma" width="40" height="40"/></a>
-  <a href="https://recharts.org/en-US/" target="_blank"><img src="https://recharts.org/img/logo.svg" alt="recharts" width="40" height="40"/></a>
   <a href="https://ui.shadcn.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/119041269" alt="shadcn" width="40" height="40"/></a>
 </p>
 
