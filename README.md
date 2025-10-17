@@ -15,12 +15,9 @@
   <img src="https://komarev.com/ghpvc/?username=jiteshjain123&label=Profile%20views&color=0e75b6&style=flat" alt="jiteshjain123" /> 
 </p>
 
-- 🎯 From pixel-perfect interfaces (HTML, CSS, JS, React.js) to scalable backend systems (Node.js, Express, MongoDB), I turn ideas into full-stack digital products — optimized for performance, UX, and real-world impact. 🚀 
-- 📫 How to reach me: **jiteshjain022@gmail.com**  
-- 📄 Know about my experiences: [Resume Link](https://drive.google.com/drive/folders/18fWh-ga26rWt22o4IbszUZMO3aePnZrd?usp=sharing) 
-- ⚡ Fun fact: **I am confident, passionate, and determined**  
-
----
+- 🎯 From pixel-perfect interfaces (Next.js, React) to scalable backends (Node.js, **Convex**, Prisma, PostgreSQL), I turn ideas into full-stack digital products — optimized for performance, UX, and real-world impact. 🚀 
+- 📫 How to reach me: **jiteshjain022@gmail.com** - 📄 Know about my experiences: [Resume Link](https://drive.google.com/drive/folders/18fWh-ga26rWt22o4IbszUZMO3aePnZrd?usp=sharing)  
+- ⚡ Fun fact: **I am confident, passionate, and determined** ---
 
 ### 🌐 Connect with me:
 <p align="left">
@@ -58,6 +55,7 @@
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
   <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
   <a href="https://ui.shadcn.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/119041269" alt="shadcn" width="40" height="40"/></a>
+  <a href="https://www.convex.dev/" target="_blank"><img src="https://avatars.githubusercontent.com/u/84770316" alt="convex" width="40" height="40"/></a>
 </p>
 
 <h4 align="left">Databases</h4>
@@ -72,6 +70,7 @@
 <p align="left">
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://clerk.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/98317138" alt="clerk" width="40" height="40"/></a>
   <a href="https://www.neon.tech/" target="_blank"><img src="https://avatars.githubusercontent.com/u/89221146" alt="neon" width="40" height="40"/></a>
   <a href="https://upstash.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/86364117" alt="upstash" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/></a>
