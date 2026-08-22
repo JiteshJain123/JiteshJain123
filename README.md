@@ -316,9 +316,12 @@ Drove cross-platform digital content strategy and automated outreach workflows t
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JiteshJain123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JiteshJain123&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JiteshJain123&theme=tokyonight" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiteshJain123&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JiteshJain123&theme=tokyonight" />
 
 <br/>
 
